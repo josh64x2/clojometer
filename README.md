@@ -1,10 +1,10 @@
 # clojometer
 
-FIXME: description
+A simple clojure app to parse the pedometer data from iPod nano 6th gen
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/josh64x2/clojometer.
 
 ## Usage
 
@@ -30,7 +30,6 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Joshua Pore
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Apache Licence 2.0
